@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/scaletaskpro-35002-cc93c8b2/task_manager_backend_workspace/task_manager_backend"
+}

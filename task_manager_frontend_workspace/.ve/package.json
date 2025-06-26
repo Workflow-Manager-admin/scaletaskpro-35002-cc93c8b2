@@ -1,0 +1,9 @@
+{
+  "name": "transform",
+  "version": "1.0.0",
+  "dependencies": {
+    "diff": "8.0.2",
+    "express": "5.1.0",
+    "jscodeshift": "17.3.0"
+  }
+}
